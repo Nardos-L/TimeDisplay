@@ -1,0 +1,17 @@
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+
+.date-time {
+    width: 200px;
+    border:  2px solid black;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.date-time p {
+    font-size: 20px;
+    font-weight: bold;
+}
